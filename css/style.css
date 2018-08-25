@@ -677,7 +677,7 @@ animation-delay: .8s;
   background: url(../images/home/1.jpg) no-repeat center;
   background-size: cover;
   background-attachment: fixed;
-  margin-top: 70px;
+  margin-top: 0px;
 }
 .page-middle-banner .opacity {
   background: rgba(0,0,0,0.8);
@@ -878,7 +878,7 @@ animation-delay: .8s;
 
  ***/
 #skill-section {
-  background: #232a34;
+  background: white;
   margin-top: 70px;
 }
 #skill-section .img {
